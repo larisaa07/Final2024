@@ -24,7 +24,7 @@ h1 {
 }
 
 button {
-    width:335px;
+    width:200px;
 }
 
 #shop:hover {
@@ -39,4 +39,8 @@ button {
 
 #buttonx {
     text-align: center;
+}
+
+#meow {
+    height:350px;
 }
