@@ -11,6 +11,32 @@ nav {
 }
 #words {
     2px;
+    text-align:center;
 }
 
 
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+button {
+    width:335px;
+}
+
+#shop:hover {
+    background-color: rgb(185, 151, 159);
+    color: white;
+}
+#shop:active {
+    background-color: rgb(120, 77, 87);
+    color: white;
+    
+}
+
+#buttonx {
+    text-align: center;
+}
