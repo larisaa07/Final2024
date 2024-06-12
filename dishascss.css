@@ -48,3 +48,7 @@ button {
 .container {
     background-color: rgba(252, 220, 191, 0.733);
 }
+
+footer {
+    margin-top: 50px;
+}
