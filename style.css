@@ -1,3 +1,6 @@
+.container{
+    background-color:rgba(252, 220, 191, 0.733);
+}
 
 .bg-hero-image{
     background-color: rgba(255, 189, 159, 0.589);
@@ -12,4 +15,11 @@
 
 nav {
     margin-top: 5px;
+}
+
+
+.carousel{
+    width:500px;
+    text-align:center;
+    
 }
