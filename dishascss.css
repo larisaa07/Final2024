@@ -44,3 +44,7 @@ button {
 #meow {
     height:350px;
 }
+
+.container {
+    background-color: rgba(252, 220, 191, 0.733);
+}
