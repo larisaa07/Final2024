@@ -4,11 +4,7 @@
 
 .container{
     background-color:rgba(252, 220, 191, 0.733);
-    text-align: center;
-    margin-top: 20px;
-    font-family: "Satisfy", cursive;
-    font-weight: 400;
-    font-style: normal;
+    
 }
 
 #headings{
@@ -35,4 +31,12 @@
 
 .aboutUsImg{
     height: 250px;
+}
+
+main{
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
